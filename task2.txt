@@ -1,0 +1,41 @@
+SPF and DKIM Information
+Headers Found
+Header Name	Header Value
+Subject	Urgent: Final Notice – Your Account Has Been Suspended
+Received Header
+Subject: Urgent: Final Notice – Your Account Has Been Suspended
+
+From: support@secure-login.com
+ZeroFox
++9
+University of Hawaii
++9
+The Guardian
++9
+
+Date: Wednesday, May 28, 2025
+
+To: [Recipient's Name]
+
+Dear [Recipient's Name],
+
+We have detected suspicious activity on your account and have temporarily suspended access to protect your personal information. To restore your account, please verify your identity by clicking the link below and completing the required steps:
+University of Windsor
++8
+California State University San Marcos
++8
+New York Post
++8
+
+👉 Restore Account Now
+New York Post
+
+Failure to verify your identity within 24 hours will result in permanent suspension of your account.
+
+If you did not initiate this request, please contact our support team immediately at support@secure-login.com.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+The Secure Login Team
