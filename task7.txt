@@ -1,0 +1,24 @@
+Identify And Remove Suscipious Browsers Extensions:
+----------------------------------------------------
+How Bad Extensions Can Harm You:
+1.They can steal your passwords and personal info.
+2. They can watch what websites you visit.
+3. They can show too many ads or pop-ups.
+4. They can slow down your browser.
+5. They can take control of your browser and open malicious website.
+---------------------------------------------------------------------
+What I Did (Steps and Result):
+ Steps I Did:
+1. Opened Firefox and went to Extensions.
+2. Looked at all the extensions.
+3. Checked if I installed and used them.
+4. Removed the one I don’t need.
+5. Kept only the useful ones.
+6. Restarted Firefox.
+--------------------------------------------------------------------
+Final Result:
+Extension Name	What I Did	Why
+Grammarly	Kept	It helps in writing.
+IDMIntegration	Kept	I use it for downloading.
+Read Aloud	Removed	I don’t need it.
+
